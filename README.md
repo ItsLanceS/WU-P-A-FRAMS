@@ -182,4 +182,4 @@ Main pages:
 
 ## License
 
-This project is for academic and local development use. Add a license file if you plan to publish or distribute it.
+This project was developed for academic purposes and is shared as part of my portfolio. All rights are reserved unless written permission is granted by the author.
