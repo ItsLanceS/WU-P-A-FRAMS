@@ -182,4 +182,4 @@ Main pages:
 
 ## License
 
-This project was developed for academic purposes and is shared as part of my portfolio. All rights are reserved unless written permission is granted by the author.
+This project is licensed under the MIT License. See the LICENSE file for details.
