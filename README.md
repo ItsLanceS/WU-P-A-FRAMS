@@ -180,7 +180,7 @@ Main pages:
 - `reports`
 - `api`
 
-## ScreenShot
+## Screenshot
 <img width="1599" height="727" alt="image" src="https://github.com/user-attachments/assets/ee06e5a9-fd02-4850-8b45-d2e8f6b4b326" />
 
 
