@@ -180,6 +180,10 @@ Main pages:
 - `reports`
 - `api`
 
+## ScreenShot
+<img width="1599" height="727" alt="image" src="https://github.com/user-attachments/assets/ee06e5a9-fd02-4850-8b45-d2e8f6b4b326" />
+
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
